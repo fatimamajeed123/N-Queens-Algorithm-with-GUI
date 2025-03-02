@@ -7,8 +7,4 @@ This project implements the **N-Queens Problem** using **C#**, supporting only *
 - Uses **backtracking** for solution generation.
 - **Graphical User Interface (GUI)** for easy interaction.
 
-## How to Run
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/fatimamajeed123/N-Queens-Algorithm-with-GUI.git
-   cd N-Queens-Algorithm-with-GUI
+
